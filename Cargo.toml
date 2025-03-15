@@ -2,6 +2,8 @@
 name = "embedded-chacha"
 version = "0.1.0"
 edition = "2024"
+license = "CC0-1.0"
+description = "Encryption of embedded-io and embedded-io-async streams"
 
 [dependencies]
 chacha20 = { version = "0.9.1", default-features = false }
