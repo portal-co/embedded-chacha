@@ -1,13 +1,14 @@
 # embedded-chacha
 
 ## Description
-Project embedded-chacha
+ChaCha20 encryption implementation for `embedded-io` streams, suitable for `no_std` environments.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Provide transparent encryption wrappers
+- [ ] Support `embedded-io-async`
 
 ## Progress
-- [ ] Initial setup
+- [ ] Crate initialized
 
 ---
 *AI assisted*
