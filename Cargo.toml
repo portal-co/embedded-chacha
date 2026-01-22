@@ -7,5 +7,5 @@ description = "Encryption of embedded-io and embedded-io-async streams"
 
 [dependencies]
 chacha20 = { version = "0.9.1", default-features = false }
-embedded-io = { version = "0.6.1", default-features = false }
-embedded-io-async = { version = "0.6.1", default-features = false }
+embedded-io = { version = "0.7", default-features = false }
+embedded-io-async = { version = "0.7", default-features = false }
